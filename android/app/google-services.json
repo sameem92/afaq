@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "479383925870",
+    "project_id": "afaq-2f387",
+    "storage_bucket": "afaq-2f387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479383925870:android:ee5cc9cad544a3ad9aa27f",
+        "android_client_info": {
+          "package_name": "com.afaq.realstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479383925870-fqdib07p4g78u7pp6829r6eojvc9hfhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4xrXDgXBX9bwcrFrQLVsf8aM0bMJWSfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479383925870-fqdib07p4g78u7pp6829r6eojvc9hfhn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479383925870-m65un1ajv69e9vr29rtctdaqu37enfjp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afaq.realstates"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
