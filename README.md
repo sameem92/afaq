@@ -1,4 +1,6 @@
  # Afaq App
+ 
+ ![afaq](https://github.com/sameem92/afaq/assets/140856509/7a868116-e5dd-4fc6-b602-9a9c436ac066)
 
 ![1](https://github.com/sameem92/afaq/assets/140856509/7ef66433-0632-4595-96c0-a88961e6b83c)
 
